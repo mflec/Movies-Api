@@ -1,1 +1,1 @@
-Este repositorio es parte de un proyecto realizado para la compañia Alkmey
+Este repositorio es parte de un proyecto realizado a modo challenge para entrar a Alkemy
